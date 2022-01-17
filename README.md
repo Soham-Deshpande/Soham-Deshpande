@@ -7,7 +7,7 @@ I have worked in Python, Java, HTML, Javascript and Latex.
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham-Deshpande&theme=algolia&show_icons=true&hide=issues)
 <a href="https://github.com/Soham-Deshpande">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Deshpande&theme=github_dark" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-Deshpande&theme=algolia" />
 </a>
 
 
