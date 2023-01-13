@@ -14,3 +14,7 @@ This Summer I will be doing an internship with Mako Trading. I am looking forwar
 </a>
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Soham-Deshpande/count.svg" />
+</p>
