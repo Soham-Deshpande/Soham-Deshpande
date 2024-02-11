@@ -9,7 +9,7 @@ I have worked in Python, Java, HTML, Javascript, and Latex.
 Last Summer I interned with Mako Trading where I gained a better understanding of the financial landscape and have gained a greater appreciation for the world of optionality. 
 Inspired, I am looking to explore algorithmic trading, particularly the application of machine learning in this space. My next few projects will involve an exploration into Numerical Methods, Deep Hedging, and an implementation of the TFT in this space.
 
-In the coming Spring, I will be on an Insight Week at Macquarie and Citi where I am looking forward to gaining a further understanding of quantitative trading. 
+In the coming Spring, I will be on an Insight Week at Macquarie, Barings and Citi where I am looking forward to gaining a further understanding of quantitative trading. 
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham-Deshpande&theme=algolia&show_icons=true&hide=issues)
 <a href="https://github.com/Soham-Deshpande">
