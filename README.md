@@ -9,7 +9,11 @@ I have worked in Python, Java, HTML, Javascript, and Latex.
 Last Summer I interned with Mako Trading where I gained a better understanding of the financial landscape and have gained a greater appreciation for the world of optionality. 
 Inspired, I am looking to explore algorithmic trading, particularly the application of machine learning in this space. My next few projects will involve an exploration into Numerical Methods, Deep Hedging, and an implementation of the TFT in this space.
 
-In the coming Spring, I will be on an Insight Week at Macquarie, Barings and Citi where I am looking forward to gaining a further understanding of quantitative trading. 
+This Summer I interned at Maker's Lab Tech, Mahindra as a Quantum Computing Researcher. This included exploring the uses of Quantum GANs, Quantum Circuit Born Machines and several numerical methods using Quantum techniques. One of the main projects undertaken was an exploration into synthetically generating market data by learning a given distribution. 
+
+I am also researching Deep Hedging using Quantum Techniques through my third-year dissertation.
+
+Next Summer I am due to join Macquarie's Commodities and Global Markets division as a Quant intern.
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham-Deshpande&theme=algolia&show_icons=true&hide=issues)
 <a href="https://github.com/Soham-Deshpande">
