@@ -10,11 +10,13 @@ Last Summer I interned with Mako Trading where I gained a better understanding o
 Inspired, I am looking to explore algorithmic trading, particularly the application of machine learning in this space. My next few projects will involve an exploration into Numerical Methods, Deep Hedging, and an implementation of the TFT in this space.
 
 During Spring, I was offered Spring Insight Weeks at Citi, Barings, Macquarie, and JP Morgan, completing the first three. These gave me a great insight into the world of investment banking and the uses of quantitative finance within them!
-This Summer I interned at Maker's Lab Tech, Mahindra as a Quantum Computing Researcher. This included exploring the uses of Quantum GANs, Quantum Circuit Born Machines and several numerical methods using Quantum techniques. One of the main projects undertaken was an exploration into synthetically generating market data by learning a given distribution. 
+Last Summer I interned at Maker's Lab Tech, Mahindra as a Quantum Computing Researcher. This included exploring the uses of Quantum GANs, Quantum Circuit Born Machines and several numerical methods using Quantum techniques. One of the main projects undertaken was an exploration into synthetically generating market data by learning a given distribution. 
 
-I am also researching Deep Hedging using Quantum Techniques through my third-year dissertation.
+I have finished researching Deep Hedging using Quantum Techniques through my third-year dissertation, and the resulting paper can be found on my page.
 
-Next Summer I am due to join Macquarie's Commodities and Global Markets division as a Quant intern.
+This Summer, I interned at Macquarie in the Commodities and Global Markets division as a data science intern. Here I was responsible for using deep learning to forecast renewables demand and price North American power markets(ERCOT).
+
+During my Master's year, I intend to research Quantum Monte-Carlo for calibrating options pricing models in energy markets; I hypothesise an exponential speed-up over classical methods.
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham-Deshpande&theme=algolia&show_icons=true&hide=issues)
 <a href="https://github.com/Soham-Deshpande">
