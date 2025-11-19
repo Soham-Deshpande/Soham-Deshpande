@@ -24,7 +24,3 @@ During my Master's year, I intend to research Quantum Monte-Carlo for calibratin
 </a>
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Soham-Deshpande/count.svg" />
-</p>
