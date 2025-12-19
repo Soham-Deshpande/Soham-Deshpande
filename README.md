@@ -16,7 +16,7 @@ I have finished researching Deep Hedging using Quantum Techniques through my thi
 
 This Summer, I interned at Macquarie in the Commodities and Global Markets division as a data science intern. Here I was responsible for using deep learning to forecast renewables demand and price North American power markets(ERCOT).
 
-During my Master's year, I intend to research Quantum Monte-Carlo for calibrating options pricing models in energy markets; I hypothesise an exponential speed-up over classical methods.
+During my Master's year, I intend to research Quantum Monte-Carlo for calibrating options pricing models in energy markets; I hypothesise a quadratic speed-up in parameter estimation over classical methods.
 
 ![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soham-Deshpande&theme=algolia&show_icons=true&hide=issues)
 <a href="https://github.com/Soham-Deshpande">
